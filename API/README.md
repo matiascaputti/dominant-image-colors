@@ -1,7 +1,5 @@
 # Color Palette extraction (as a service)
 
-**[Live Demo](https://colors.rmotr.com/)**
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/872296/45312271-04ce6f80-b502-11e8-9ce8-e46d76dd29c3.png">
 </p>
